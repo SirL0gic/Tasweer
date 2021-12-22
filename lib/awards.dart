@@ -1,0 +1,3 @@
+class Awards{
+  Awards();
+}

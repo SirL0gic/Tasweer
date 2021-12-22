@@ -1,0 +1,1 @@
+io.flutter.plugins.firebase_core_web

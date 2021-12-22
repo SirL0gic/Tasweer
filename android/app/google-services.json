@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "788307703468",
+    "firebase_url": "https://tasweerhwu-default-rtdb.firebaseio.com",
+    "project_id": "tasweerhwu",
+    "storage_bucket": "tasweerhwu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788307703468:android:09ae0b08887b9f837b9109",
+        "android_client_info": {
+          "package_name": "com.example.tasweer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788307703468-qdrbc1d7iv3g25bsgcok1bqlela4e4ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasweer",
+            "certificate_hash": "396fc9ef3995a31356a2b9b85c857dfadb25c2ca"
+          }
+        },
+        {
+          "client_id": "788307703468-t258nongh0rt0i30bjgfrbk2noqh6h6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tasweer",
+            "certificate_hash": "f4b5a234423f10440f166e983e29e5a864a1038a"
+          }
+        },
+        {
+          "client_id": "788307703468-or8snbl1ha2eksjr04g4vvmo5jbqntvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ0Ws-DA1Z6BOs8LnN8WnBf8RDyFFLR2I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788307703468-or8snbl1ha2eksjr04g4vvmo5jbqntvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
